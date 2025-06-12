@@ -54,6 +54,3 @@ You can edit `intents.json` to add more tags, patterns, and responses!
 
 ---
 
-## 👩‍💻 Author
-
-Vaishnavi Vibhute
