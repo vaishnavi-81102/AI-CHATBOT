@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "What's up?"],
+      "responses": ["Hello!", "Hi there!", "Hey! How can I help you?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you", "Goodbye"],
+      "responses": ["Goodbye!", "See you later!", "Bye! Have a great day!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful"],
+      "responses": ["You're welcome!", "No problem!", "Happy to help!"]
+    },
+    {
+      "tag": "age",
+      "patterns": ["How old are you?", "What is your age?"],
+      "responses": ["I'm a bot, I don't have an age!", "I was created recently!"]
+    }
+  ]
+}
